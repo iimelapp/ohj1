@@ -1,0 +1,3 @@
+C:\kurssit\ohj1\demot\Harjoitustyo\Harjoitustyo\HarjoitustyoContent\obj\x86\Debug\HarjoitustyoContent.contentprojResolveAssemblyReference.cache
+C:\kurssit\ohj1\ht\iimelapp\Harjoitustyo\Harjoitustyo\HarjoitustyoContent\obj\x86\Debug\HarjoitustyoContent.contentprojResolveAssemblyReference.cache
+E:\Harjoitustyo\Harjoitustyo\HarjoitustyoContent\obj\x86\Debug\HarjoitustyoContent.contentprojResolveAssemblyReference.cache

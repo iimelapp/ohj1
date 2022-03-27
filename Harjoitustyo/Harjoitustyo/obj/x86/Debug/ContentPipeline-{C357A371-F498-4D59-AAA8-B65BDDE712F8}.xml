@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>kentta1.txt</Source>
+      <Name>kentta1</Name>
+      <Importer>TextFileImporter</Importer>
+      <Processor>TextFileContentProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Harjoitustyo\Harjoitustyo\Harjoitustyo\bin\x86\Debug\Content\kentta1.xnb</Output>
+      <Time>2016-10-31T12:08:52+02:00</Time>
+    </Item>
+    <Item>
+      <Source>kentta2.txt</Source>
+      <Name>kentta2</Name>
+      <Importer>TextFileImporter</Importer>
+      <Processor>TextFileContentProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Harjoitustyo\Harjoitustyo\Harjoitustyo\bin\x86\Debug\Content\kentta2.xnb</Output>
+      <Time>2016-11-27T22:24:06+02:00</Time>
+    </Item>
+    <Item>
+      <Source>kentta3.txt</Source>
+      <Name>kentta3</Name>
+      <Importer>TextFileImporter</Importer>
+      <Processor>TextFileContentProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Harjoitustyo\Harjoitustyo\Harjoitustyo\bin\x86\Debug\Content\kentta3.xnb</Output>
+      <Time>2016-11-06T14:44:10+02:00</Time>
+    </Item>
+    <Item>
+      <Source>kissa.png</Source>
+      <Name>kissa</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Harjoitustyo\Harjoitustyo\Harjoitustyo\bin\x86\Debug\Content\kissa.xnb</Output>
+      <Time>2016-11-06T15:22:02+02:00</Time>
+    </Item>
+    <Item>
+      <Source>kala.jpg</Source>
+      <Name>kala</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Harjoitustyo\Harjoitustyo\Harjoitustyo\bin\x86\Debug\Content\kala.xnb</Output>
+      <Time>2016-11-06T15:48:08+02:00</Time>
+    </Item>
+    <Item>
+      <Source>hiiri.png</Source>
+      <Name>hiiri</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Harjoitustyo\Harjoitustyo\Harjoitustyo\bin\x86\Debug\Content\hiiri.xnb</Output>
+      <Time>2016-11-06T15:54:16+02:00</Time>
+    </Item>
+    <Item>
+      <Source>taso.png</Source>
+      <Name>taso</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Harjoitustyo\Harjoitustyo\Harjoitustyo\bin\x86\Debug\Content\taso.xnb</Output>
+      <Time>2016-11-06T16:00:40+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{C357A371-F498-4D59-AAA8-B65BDDE712F8}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>E:\Harjoitustyo\Harjoitustyo\HarjoitustyoContent\</RootDirectory>
+      <LoggerRootDirectory>E:\Harjoitustyo\Harjoitustyo\Harjoitustyo\</LoggerRootDirectory>
+      <IntermediateDirectory>E:\Harjoitustyo\Harjoitustyo\Harjoitustyo\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>E:\Harjoitustyo\Harjoitustyo\Harjoitustyo\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Jypeli\lib\ContentExtensions\TextFileContentExtension.dll</Key>
+        <Value>2016-11-01T18:01:10+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Jypeli\lib\ContentExtensions\AnimationExtension.dll</Key>
+        <Value>2016-11-01T18:01:10+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2016-12-07T11:45:19.5668066+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
